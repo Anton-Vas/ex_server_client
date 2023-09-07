@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/home/dev/Desktop/ex_server_client/build",
+  "command": "/usr/bin/g++ -I/home/dev/Desktop/ex_server_client/src -O3 -DNDEBUG -o CMakeFiles/ex_server_client.dir/main.cpp.o -c /home/dev/Desktop/ex_server_client/main.cpp",
+  "file": "/home/dev/Desktop/ex_server_client/main.cpp"
+},
+{
+  "directory": "/home/dev/Desktop/ex_server_client/build",
+  "command": "/usr/bin/g++ -I/home/dev/Desktop/ex_server_client/src -O3 -DNDEBUG -o CMakeFiles/ex_server_client.dir/src/TCP_server.cpp.o -c /home/dev/Desktop/ex_server_client/src/TCP_server.cpp",
+  "file": "/home/dev/Desktop/ex_server_client/src/TCP_server.cpp"
+},
+{
+  "directory": "/home/dev/Desktop/ex_server_client/build",
+  "command": "/usr/bin/g++ -I/home/dev/Desktop/ex_server_client/src -O3 -DNDEBUG -o CMakeFiles/ex_server_client.dir/src/TCP_client.cpp.o -c /home/dev/Desktop/ex_server_client/src/TCP_client.cpp",
+  "file": "/home/dev/Desktop/ex_server_client/src/TCP_client.cpp"
+},
+{
+  "directory": "/home/dev/Desktop/ex_server_client/build",
+  "command": "/usr/bin/g++ -I/home/dev/Desktop/ex_server_client/src -O3 -DNDEBUG -o CMakeFiles/ex_server_client.dir/src/TCP_chat_server.cpp.o -c /home/dev/Desktop/ex_server_client/src/TCP_chat_server.cpp",
+  "file": "/home/dev/Desktop/ex_server_client/src/TCP_chat_server.cpp"
+},
+{
+  "directory": "/home/dev/Desktop/ex_server_client/build",
+  "command": "/usr/bin/g++ -I/home/dev/Desktop/ex_server_client/src -O3 -DNDEBUG -o CMakeFiles/ex_server_client.dir/src/TCP_chat_clients.cpp.o -c /home/dev/Desktop/ex_server_client/src/TCP_chat_clients.cpp",
+  "file": "/home/dev/Desktop/ex_server_client/src/TCP_chat_clients.cpp"
+},
+{
+  "directory": "/home/dev/Desktop/ex_server_client/build",
+  "command": "/usr/bin/g++ -I/home/dev/Desktop/ex_server_client/src -O3 -DNDEBUG -o CMakeFiles/ex_server_client.dir/src/UDP_server.cpp.o -c /home/dev/Desktop/ex_server_client/src/UDP_server.cpp",
+  "file": "/home/dev/Desktop/ex_server_client/src/UDP_server.cpp"
+},
+{
+  "directory": "/home/dev/Desktop/ex_server_client/build",
+  "command": "/usr/bin/g++ -I/home/dev/Desktop/ex_server_client/src -O3 -DNDEBUG -o CMakeFiles/ex_server_client.dir/src/UDP_client.cpp.o -c /home/dev/Desktop/ex_server_client/src/UDP_client.cpp",
+  "file": "/home/dev/Desktop/ex_server_client/src/UDP_client.cpp"
+}
+]
